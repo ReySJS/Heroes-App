@@ -1,0 +1,18 @@
+.container {
+    padding: 16px 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.info h1 {
+    font-size: 24px;
+}
+
+.info span {
+    font-size: 14px;
+    color: #e0e0e9;
+    text-transform: uppercase;
+}
+.info p {
+    display: block;
+    margin-top: 32px;
+}
